@@ -23,6 +23,18 @@ Flexible(
 
 ```
 
-# Paused
+# Provider for navigation
 
-at section 6.5 Switching Tabs.
+Use a top-level provider to keep track of which screen to display. Allows navigation from both bottom bar and from buttons within the app.
+
+# read-only data
+
+The GroceryManager widget has a private list of items; the getter makes an unmodifiable copy to return to clients.
+
+# Form processing
+
+* Pretty good example of a screen with a form
+  - Shows different controllers.
+  - How to create, edit, and delete an item.
+  - How to display a list of items
+  - Preview the item as you create it.
