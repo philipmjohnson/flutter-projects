@@ -2,7 +2,9 @@
 
 Chapter 5: More widgets (Scrolling)
 
-Starts about 12 minutes in.
+https://www.youtube.com/watch?v=4Ea1mhkQRxQ
+
+Code walkthrough starts about 12 minutes in.
 
 * ListView and GridView
 
@@ -19,6 +21,7 @@ Code organization:
   * Different way from Fooderlich. It's organized by feature.
 
 26:39: Link to event loop video
+  * https://www.youtube.com/watch?v=vl_AaCgudcY
 
 FutureBuilder:
   - future: (promise)
