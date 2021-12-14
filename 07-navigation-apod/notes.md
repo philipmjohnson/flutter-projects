@@ -27,5 +27,3 @@ https://youtu.be/jJ1W52f6CiM?t=1757
 https://youtu.be/jJ1W52f6CiM?t=1859
  * routes.dart implements a "Page Pattern".
 
-
-Paused listening at: https://youtu.be/jJ1W52f6CiM?t=2675
